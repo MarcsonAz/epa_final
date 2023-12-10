@@ -1,4 +1,0 @@
-10/12/2023
-inicio do diretorio e criacao do conceito de ocupação e dificiência
-
-os dados serão do suplemento de deficiência da PNAD contínua anual de 2022.
